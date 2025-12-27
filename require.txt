@@ -1,0 +1,14 @@
+# Core computer vision
+opencv-python>=4.7.0
+
+# YOLOv8 model API
+ultralytics>=8.0.0
+
+# Array and data handling
+numpy>=1.24.0
+
+# Optional — for video I/O and support
+ffmpeg-python>=0.2.0
+
+# Optional — if using any Pandas analysis / logs
+pandas>=1.5.0
