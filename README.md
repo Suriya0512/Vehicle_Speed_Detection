@@ -13,7 +13,7 @@ The speed of each vehicle is calculated using distance and time. The system can 
 - **Name:** Jayasooriya B  
 - **Course:** B.E (CSE – AIML)  
 - **Year:** 3rd Year  
-- **GitHub:** https://github.com/Suriya0512  
+- **GitHub:** https://github.com/Suriya0512/Vehicle_Speed_Detection.git
 - **LinkedIn:** https://www.linkedin.com/in/jaya-sooriya-7120473a  
 - **Email:** Jayasooriyab2@gmail.com  
 
